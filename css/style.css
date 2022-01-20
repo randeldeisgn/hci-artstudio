@@ -12,13 +12,13 @@
 @font-face {
   font-family: 'Helvetica Nueu LT Pro';
   font-weight: 300;
-  src: url(/fonts/HelveticaNeueLTPro-LtEx.otf);
+  src: url(fonts/HelveticaNeueLTPro-LtEx.otf);
 }
 
 @font-face {
   font-family: 'Oakes Grotesk';
   font-weight: 400;
-  src: url(/fonts/OakesGroteskRegular.ttf);
+  src: url(fonts/OakesGroteskRegular.ttf);
 }
 
 :root {
@@ -204,12 +204,12 @@ header .header-wrapper .title {
 #second-banner {
   height: 100vh;
   width: 100%;
-  background: url("/img/banner2.png") no-repeat;
+  background: url("img/banner2.png") no-repeat;
   background-size: cover;
 }
 
 video {
-  cursor: url(/img/cursor.png), auto;
+  cursor: url(img/cursor.png), auto;
 }
 
 #design-process {
@@ -241,25 +241,25 @@ video {
 }
 
 #design-process .design-process-wrapper .design-process-content .card-1 {
-  background: url("/img/discovery.png") no-repeat center;
+  background: url("img/discovery.png") no-repeat center;
   background-size: cover;
-  cursor: url(/img/cursor.png), auto;
+  cursor: url(img/cursor.png), auto;
 }
 
 #design-process .design-process-wrapper .design-process-content .card-2 {
-  background: url("/img/experience-pro.png") no-repeat center;
+  background: url("img/experience-pro.png") no-repeat center;
   background-size: cover;
-  cursor: url(/img/cursor.png), auto;
+  cursor: url(img/cursor.png), auto;
 }
 
 #design-process .design-process-wrapper .design-process-content .card-3 {
-  background: url("/img/low-feli.png") no-repeat center;
+  background: url("img/low-feli.png") no-repeat center;
   background-size: cover;
-  cursor: url(/img/cursor.png), auto;
+  cursor: url(img/cursor.png), auto;
 }
 
 #design-process .design-process-wrapper .design-process-content .card-4 {
-  background: url("/img/high.png") no-repeat center;
+  background: url("img/high.png") no-repeat center;
   background-size: cover;
 }
 
@@ -355,9 +355,9 @@ video {
 }
 
 #design-process .design-process-wrapper .card-stretch .card-5 {
-  background: url("/img/arts.jpg") no-repeat center;
+  background: url("img/arts.jpg") no-repeat center;
   background-size: cover;
-  cursor: url(/img/cursor.png), auto;
+  cursor: url(img/cursor.png), auto;
 }
 
 #design-process .design-process-wrapper .card-stretch .card-photo {
@@ -465,42 +465,42 @@ video {
 }
 
 #our-team .our-team-wrapper .our-team-content .card-photo-1 {
-  background: url("/img/randel.png") no-repeat center;
+  background: url("img/randel.png") no-repeat center;
   background-size: cover;
 }
 
 #our-team .our-team-wrapper .our-team-content .card-photo-2 {
-  background: url("/img/ryan.png") no-repeat center;
+  background: url("img/ryan.png") no-repeat center;
   background-size: cover;
 }
 
 #our-team .our-team-wrapper .our-team-content .card-photo-3 {
-  background: url("/img/rb.png") no-repeat center;
+  background: url("img/rb.png") no-repeat center;
   background-size: cover;
 }
 
 #our-team .our-team-wrapper .our-team-content .card-photo-4 {
-  background: url("/img/edward.png") no-repeat center;
+  background: url("img/edward.png") no-repeat center;
   background-size: cover;
 }
 
 #our-team .our-team-wrapper .our-team-content .card-photo-5 {
-  background: url("/img/jam.png") no-repeat center;
+  background: url("img/jam.png") no-repeat center;
   background-size: cover;
 }
 
 #our-team .our-team-wrapper .our-team-content .card-photo-6 {
-  background: url("/img/acosta.png") no-repeat center;
+  background: url("img/acosta.png") no-repeat center;
   background-size: cover;
 }
 
 #our-team .our-team-wrapper .our-team-content .card-photo-7 {
-  background: url("/img/datu.png") no-repeat center;
+  background: url("img/datu.png") no-repeat center;
   background-size: cover;
 }
 
 #our-team .our-team-wrapper .our-team-content .card-photo-8 {
-  background: url("/img/glace.png") no-repeat center;
+  background: url("img/glace.png") no-repeat center;
   background-size: cover;
 }
 
